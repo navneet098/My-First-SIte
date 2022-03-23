@@ -1,0 +1,13 @@
+body{
+  background-color: #EFFFFD;
+}
+a:hover{
+  font-weight: bold;
+  color: #42C2FF;
+}
+hr{
+  border-style: dotted none none;
+  width: 15%;
+  border-width:thick;
+  border-color:grey;
+}
